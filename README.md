@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **abdelrahman.r.hassan@gmail.com**
 
-- ⚡ Fun fact **I hold two bachelor's degrees! **
+- ⚡ Fun fact ``I hold two bachelor's degrees!``
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

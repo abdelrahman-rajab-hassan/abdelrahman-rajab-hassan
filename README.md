@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm ABDELRAHMAN HASSAN</h1>
-<h3 align="center">Data Scientist</h3>
+## Languages and Tools
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-rajab-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-rajab-hassan" /> </p>
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=flat-square" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square" alt="CSS3" />
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=flat-square" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-%23404d59.svg?&style=flat-square" alt="Express" />
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square" alt="MongoDB" />
+</div>
 
-- 🌱 I’m currently learning **ML libraries**
-
-- 📫 How to reach me **abdelrahman.r.hassan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>

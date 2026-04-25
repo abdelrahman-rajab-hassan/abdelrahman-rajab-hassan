@@ -18,19 +18,6 @@ Data Scientist dedicated to extracting meaningful insights from complex, high-di
 
 </div>
 
-## 🎓 Education
-
-| Institution | Degree | Duration |
-|---|---|---|
-|  |  |  -  |
-
-###  in 
-**
-
-## 📞 Contact & Links
-
-<div align="left">
-
 - 📫 How to reach me **abdelrahman.r.hassan@gmail.com**
 
 </div>

@@ -34,11 +34,10 @@ Data Scientist dedicated to extracting meaningful insights from complex, high-di
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
-[![Skills](https://skillicons.dev/icons?i=python,js)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 💻 Frontend Development
-[![Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 💻 AI/ML
-[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;&nbsp;![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;&nbsp;&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;&nbsp;&nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;&nbsp;&nbsp;![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;&nbsp;![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;&nbsp;&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)

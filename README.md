@@ -30,14 +30,4 @@ Data Scientist dedicated to extracting meaningful insights from complex, high-di
 
 </div>
 
-the-badge&logo=scikitlearn&logoColor=white)
 
-### 💻 Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 💻 Other
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----

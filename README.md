@@ -22,14 +22,6 @@ Data Scientist dedicated to extracting meaningful insights from complex, high-di
 
 </div>
 
-## ⚡ Fun Fact
-
-<div align="center">
-
-*I'm an optometrist and a data scientist!*
-
-</div>
-
 
 ## 🛠️ Skills & Technologies
 

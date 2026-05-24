@@ -1,7 +1,9 @@
+![Wave dot grid](particles.svg)
 <div align="center">
 
 <!-- Wave Banner + Title -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Abdelrahman%20Hassan&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Scientist&descAlignY=58&descSize=16&descColor=aaaacc" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Abdelrahman%20Hassan&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Scientist&descAlignY=58&descSize=16&descColor=aaaacc" width="100%"/> -->
+
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=9d8fff&center=true&vCenter=true&width=500&lines=Correcting+Data+Vision%3A+From+Eyes+to+Insights;Deep+Learning+%7C+LLMs+%7C+PyTorch;Turning+complex+data+into+clear+decisions)](https://git.io/typing-svg)

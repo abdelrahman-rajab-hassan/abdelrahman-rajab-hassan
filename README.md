@@ -1,7 +1,8 @@
 
+![Wave dot grid](silver_color_for_name.svg)
 
-![Wave dot grid](final.svg)
 <div align="center">
+  <!-- ![Wave dot grid](final.svg) -->
 <!-- ![Wave dot grid](particles.svg)  -->
 <!-- Wave Banner + Title -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Abdelrahman%20Hassan&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Scientist&descAlignY=58&descSize=16&descColor=aaaacc" width="100%"/> -->

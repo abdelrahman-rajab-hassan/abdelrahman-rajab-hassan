@@ -11,9 +11,10 @@
 
 ---
 
-## About
+## About Me
 
-I build systems that see patterns where others see noise. Currently deep in large language models — fine-tuning, adapting, and pushing their limits. The goal is always the same: clarity from complexity.
+**Junior ML Specialist** focused on data analysis and machine learning.
+I build models that solve real problems and turn data into stories that non-technical people can understand too.
 
 📫 &nbsp;`abdelrahman.r.hassan@gmail.com`
 
@@ -45,7 +46,7 @@ I build systems that see patterns where others see noise. Currently deep in larg
 | [📊 Project Two](https://github.com/abdelrahman-r-hassan/repo-2) | Brief one-line description of what this project does | `Python` `scikit-learn` |
 | [🤖 Project Three](https://github.com/abdelrahman-r-hassan/repo-3) | Brief one-line description of what this project does | `Python` `TensorFlow` |
 
-> ✏️ *Replace the project names, links, and descriptions with your actual repos.*
+
 
 ---
 

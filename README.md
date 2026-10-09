@@ -1,5 +1,5 @@
 
-![Banner](combined_banner_v2.svg)
+![Banner](intro-1-terminl.svg)
 
 <div align="center">
 

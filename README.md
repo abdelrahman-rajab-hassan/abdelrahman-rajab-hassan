@@ -1,9 +1,10 @@
 
-![Banner](intro-1-terminl.svg)
+<p align="center">
+  <img src="intro-1-terminal.svg" alt="Abdelrahman Hassan, Data Analyst" width="100%">
+</p>
 
 <div align="center">
-
-
+  
 <!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=abdelrahman-r-hassan&style=flat-square&color=9d8fff&label=Profile+Views)
 
